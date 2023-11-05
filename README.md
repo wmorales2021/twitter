@@ -77,6 +77,14 @@ ARQUITECTURA
 
 <img width="718" alt="image" src="https://github.com/wmorales2021/twitter/assets/79813722/fe7aabff-27a4-4ce5-ab9d-4b47f6c40b14">
 
+PRUEBA DEL SERVICIO 
+![image](https://github.com/wmorales2021/twitter/assets/79813722/a5fd7fa0-942f-4c3e-b2b9-eae61ba82c4d)
+
+
+
+
+
+
 
 
 
