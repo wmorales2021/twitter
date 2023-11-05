@@ -155,9 +155,6 @@ ARQUITECTURA
 
 
 
-PROCESO DE COMPILACIÓN 
-![image](https://github.com/wmorales2021/twitter/assets/79813722/3f884c42-1ba7-4a72-ada4-09dc9cb8d98f)
-
 
 
 
