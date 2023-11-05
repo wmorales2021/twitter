@@ -91,7 +91,7 @@ CREAMOS LA FUNCIÓN
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/40de912f-7529-4f01-b5d0-a5ad29dd974e)
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/bcfd8214-fcaa-4ed3-b355-0574f2cbdc7c)
 
-EJECUCIÓN DEL TEST FUNCION LAMBDA 
+EJECUCIÓN DEL TEST FUNCIÓN LAMBDA 
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/07172be9-a6b0-4415-8f5b-12eccfcc0b5e)
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/c3326eca-d457-4b16-a83c-3684e64ed3cc)
 
@@ -101,7 +101,7 @@ AGRGACIÓN APIGETWAY A LA FUNCIÓN LAMBDA
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/ea6a9e37-f003-417f-968e-9f98710f1504)
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/81cc653d-db93-447d-b39c-cb725c11bdcf)
 
-TEST FUNCION LAMBDA INTEGRADA EN LA APIGETWAY 
+TEST FUNCIÓN LAMBDA INTEGRADA EN LA APIGETWAY 
 ![image](https://github.com/wmorales2021/twitter/assets/79813722/fb8c72be-374b-4ad7-9c3c-ed1c67c835e2)
 
 
